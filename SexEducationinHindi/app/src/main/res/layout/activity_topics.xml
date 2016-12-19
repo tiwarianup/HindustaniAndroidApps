@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:orientation="vertical" android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="4dp"
+        android:background="@color/appBackMain">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/category_one"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:textColor="@color/appBackMain"
+                    android:text="यौन शिक्षा"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:textColor="@color/appBackMain"
+                    android:text="सेक्‍स समस्‍या"
+                    android:id="@+id/textView2" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/appBackSecondary" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:textColor="@color/appBackMain"
+                    android:text="सेक्‍सुअल स्‍वास्‍थ्‍य"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:layout_marginTop="0dp"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:textColor="@color/appBackMain"
+                    android:text="मेल इन्फर्टिलिटी"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="360dp"
+            android:layout_height="60dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginTop="6dp">
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:adSize="SMART_BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id">
+            </com.google.android.gms.ads.AdView>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/appBackSecondary" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:textColor="@color/appBackMain"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:text="फीमल इन्‍फर्टिलिटी"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:layout_marginTop="0dp"
+                    android:textColor="@color/appBackMain"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:text="शादी - यौन स्वास्थय"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@color/appBackSecondary" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:textColor="@color/appBackMain"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:text="रिलेशनशिप टिप्स"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:scaleType="centerCrop"
+                    android:layout_weight="4"
+                    android:layout_margin="4dp"
+                    android:layout_marginBottom="0dp"
+                    android:src="@drawable/sex_education_2"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_weight="1"
+                    android:padding="4dp"
+                    android:layout_margin="4dp"
+                    android:layout_marginTop="0dp"
+                    android:textColor="@color/appBackMain"
+                    android:background="@color/category_color"
+                    android:textSize="@dimen/secon_text"
+                    android:gravity="center"
+                    android:text="डेटिंग टिप्स"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="360dp"
+            android:layout_height="60dp"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_marginTop="6dp">
+
+            <com.google.android.gms.ads.AdView
+                android:id="@+id/adView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                ads:adSize="SMART_BANNER"
+                ads:adUnitId="@string/banner_ad_unit_id">
+            </com.google.android.gms.ads.AdView>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+
+
+
+</ScrollView>
+

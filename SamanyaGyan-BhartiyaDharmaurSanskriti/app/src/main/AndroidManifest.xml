@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.hindustaniandroidapps.anuptiwari.bharatkojano.samanyagyan_bhartiyadharmaursanskriti">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/short_app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".AboutActivity"
+            android:theme="@style/AppTheme"
+            android:label="@string/title_about"></activity>
+
+        <activity android:name=".DeviDevta"
+            android:theme="@style/devi_devta_theme"
+            android:label="@string/menu_1"></activity>
+
+        <activity android:name=".Dharm"
+            android:theme="@style/dharm_theme"
+            android:label="@string/menu_2"></activity>
+
+        <activity android:name=".RamayanSe"
+            android:theme="@style/ramayan_theme"
+            android:label="@string/menu_3"></activity>
+
+        <activity android:name=".MahabharatSe"
+            android:theme="@style/mahabharat_theme"
+            android:label="@string/menu_4"></activity>
+
+        <activity android:name=".DharmSthal"
+            android:theme="@style/dharmSthal_theme"
+            android:label="@string/menu_5"></activity>
+
+        <activity android:name=".LalitKala"
+            android:theme="@style/lalitkala_theme"
+            android:label="@string/menu_6"></activity>
+
+        <activity android:name=".MahanGuruShishya"
+            android:theme="@style/mahanGuru_theme"
+            android:label="@string/menu_7"></activity>
+    </application>
+</manifest>

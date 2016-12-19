@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1058424628702",
+    "firebase_url": "https://samanyagyan-bhartiyadharmaursa.firebaseio.com",
+    "project_id": "samanyagyan-bhartiyadharmaursa",
+    "storage_bucket": "samanyagyan-bhartiyadharmaursa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058424628702:android:08d2987c73c44abf",
+        "android_client_info": {
+          "package_name": "com.hindustaniandroidapps.anuptiwari.bharatkojano.samanyagyan_bhartiyadharmaursanskriti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058424628702-q7uocsurg63c66uhmessi8uv3fllgtu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hindustaniandroidapps.anuptiwari.bharatkojano.samanyagyan_bhartiyadharmaursanskriti",
+            "certificate_hash": "B4DE85661AE647CFBAF550234186268424E707D8"
+          }
+        },
+        {
+          "client_id": "1058424628702-e5nfll5rj2n6gv7ahq9dcro72p5trkqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKQpKuHU459YIIRSe6epWUqPBB2SfllM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058424628702-e5nfll5rj2n6gv7ahq9dcro72p5trkqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "302586594397",
+    "firebase_url": "https://knowindia-goddessesandgods.firebaseio.com",
+    "project_id": "knowindia-goddessesandgods",
+    "storage_bucket": "knowindia-goddessesandgods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302586594397:android:1cb5a6b2094170a0",
+        "android_client_info": {
+          "package_name": "com.hindustaniandroidapps.anuptiwari.bharatkojano.knowindia_goddessesandgods"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302586594397-tst7ojvm3oi5v7khhouo2j5na163raid.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hindustaniandroidapps.anuptiwari.bharatkojano.knowindia_goddessesandgods",
+            "certificate_hash": "B4DE85661AE647CFBAF550234186268424E707D8"
+          }
+        },
+        {
+          "client_id": "302586594397-t23h9qngt7795rq5c4m3hpkv6p2327v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUNdlB1z8y2sBsLIJxr9wnZgWxWqXjQw0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302586594397-t23h9qngt7795rq5c4m3hpkv6p2327v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

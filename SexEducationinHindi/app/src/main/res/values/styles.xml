@@ -1,0 +1,25 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+</style>
+
+    <style name="CategoryTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/category_color</item>
+        <item name="colorPrimaryDark">@color/category_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="StoryTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/story_color</item>
+        <item name="colorPrimaryDark">@color/story_color</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+</resources>

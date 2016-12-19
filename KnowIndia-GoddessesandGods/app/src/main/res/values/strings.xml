@@ -1,0 +1,1213 @@
+<resources>
+    <string name="app_name">"Know India - Religion &amp; Culture"</string>
+    <string name="short_app_name">"Know India - Religion &amp; Culture"</string>
+    <string name="devta_question_answer_string">
+"1: Which god is worshipped first according to Hindu Mythology ?+
+:Ganesh_2: Which gods are called Tridev ?+
+: Brahma, Vishnu, Mahesh_3: Who is considered as the creator of the Universe according to Hindu Mythology ? +
+:Brahma_4: Who is the Sustainer of the Universe ? +
+:Vishnu_5: Which god is known as the destroyer of the Universe ? +
+:Shiva_6: Which god is least worshipped among the Tridev ? +
+:Brahma_7: Where is the only temple of Lord Brahma situated ? +
+:Pushkar_8: By which name are the disciples of Vishnu known ?+
+:Vaishnavites_9: By which name are the disciples of Shiva known ? +
+:Shaivites_10: How many principal incarnations of Vishnu are known ? +
+:Ten_11: In which form of incarnation did Vishnu save Bhagat Prahlad from Hiranyakashyiap ? +
+:Narsingh_12: Which incarnation of Vishnu has pharasa as his weapon ? +
+:Parshuram_13: Which god is also known as Neelkanth ? +
+:Shiva_14: What is the name of Krishna’s mother who gave birth to him ?+
+:Devaki_15: Which god is known as Giridhar ? +
+:Krishna_16: Who is called the king of Hindu gods ? +
+:Indra_17: Which god is called Sahasraksh ? +
+:Indra_18: Who is the treasurer of Hindu gods ? +
+:Kuber_19: Which diety is the ‘goddess of wealth and fortune’ according to Hindus ? +
+:Lakshmi_20: Which place is known to be the origin of goddess Lakshmi ?+
+:Ocean_21: Name the Hindu goddess of learning: +
+:Saraswati_22: Name the Guru of gods: +
+:Brihaspati_23: Which god has four faces ? +
+:Brahma_24: Which god is known by the names Ashutosh, Rudra, Mahdev etc ? +
+:Shiva_25: Which goddess is known as Shailja (Girija) ? +
+:Parvati_26: Which god is known as Rudra ? +
+:Shiva_27: Which god is known as Vinayak ? +
+:Ganesh_28: What is the vehicle of Indra ? +
+:Airavat_29: What is the Vehicle of Vishnu ? +
+:Garud_30: What is the Vehicle of Shiva ? +
+:Nandi_31: What is the Vehicle of Lakshmi ? +
+:Owl_32: What is the Vehicle of Saraswati ? +
+:Hans_33: What is the Vehicle of Ganesh ? +
+:Mouse_34: What is the Vehicle of Kartikeya ? +
+:Mayur_35: Whose Vehicle is Lion ? +
+:Durga_36: What is the Vehicle of Yamraj ? +
+:Buffalo_37: What is the Vehicle of Kamdev ? +
+:Parrot_38: Which god is known as Ekdant ? +
+:Ganesh_39: Whose weapon is Vajra ? +
+:Indra_40: What material was used in making Vajra ?+
+:Bones_41: Which is the first incarnation of Lord Vishnu ? +
+:Matsya_42: By what name are the great Shiva devotees known in Tamil Literature ?+
+:Nayanars_43: By what name are the great Vishnu devotees known in Tamil Literature ?+
+:Alwars_44: Who are the two celesital Doctors (Vaidyas to devtas) born to Surya ? +
+:Ashwani Kumars_45: What is the name of the Guru of Asurs (Demons) ? +
+:Sukracharya_46: Who killed the demon Mahishasur ? +
+:Durga_47: Name the architect among the gods ? +
+:Vishwakarma_49: Which place is supposed to be the sleeping place of Lord Vishnu ? +
+:Ksheer Sagar_50: Which place is supposed to be the residence of Lord Shiva ? +
+:Kailash Parvat_52: Whose daughter is goddess Saraswati ? +
+:Brahma_53: In which form is goddess Durga worshipped on the First day of Navratra Festival ? +
+:Shailputri_54: In which form is goddess Durga worshipped on the Second day of Navratra Festival ? +
+:Bhramcharini_55: In which form is goddess Durga worshipped on the Third day of Navratra Festival ? +
+:Chandraghanta_56: In which form is goddess Durga worshipped on the Fourth day of Navratra Festival ? +
+:Kushmanda_57: In which form is goddess Durga worshipped on the Fifth day of Navratra Festival ? +
+:Skandmata_58: In which form is goddess Durga worshipped on the Sixth day of Navratra Festival ? +
+:Katyayani_59: In which form is goddess Durga worshipped on the Seventh day of Navratra Festival ? +
+:Kalratri_60: In which form is goddess Durga worshipped on the Eighth day of Navratra Festival ? +
+:Mahagouri_61: In which form is goddess Durga worshipped on the Ninth day of Navratra Festival ? +
+:Sidhidatri_62: Which goddess is worshipped on Deepawali festival ? +
+:Laxmi Indra_63: Which god is responsible for rains according to Hindu mythology ? +
+:Indra_64: Name the goddess who is also known as Veena Vadini, Sharda ? +
+:Saraswati_65: Name the god who is also known as Vakratunda, Gajanan, Lambodar ? +
+:Ganesh_66: Name the charioteer of the chariot of Sun ? +
+:Arun_67: Name the dance performed by Lord Shiva to destroy the whole world ?+
+:Tandav"
+    </string>
+
+    <string name="mahabharat_se_ques_ans_string">
+"1: Who is the author of Mahabharat ?+
+:Vedvyas _
+2: Who did the writing work of Mahabharat?+
+:Ganesh_
+3: What is the real name of book Mahabharat?+
+:Jaisanghita_
+4: Vishnu Sahsranam is a part of which epic?+
+:Mahabharat_
+5: Bhagvad Gita is a part of which epic?+
+:Mahabharat_
+7: By what name are the chapters of Mahabharat known?+
+:Parva_
+9: Which chapter of Bhagvad Gita is the longest?+
+:Eighteenth_
+10: In which chapter of Bhagvad Gita has the Virat Swarup of Lord Krishna been described ?+
+:Eleventh_
+11: Which saint told the story of Mahabharat to Janmejay ?+
+:Vaishampayan_
+13: Which Parva of Mahabharat contains Bhagvad Gita ?+
+:Bhishma_
+14: In which Parva of Mahabharat has the conversation between Yuddhishthar and Yaksh been described?+
+:Van_
+:In which Parva ofMahabharat the story of Satyavan-Savitri is described?+
+:Van _
+:In which Parva of Mahabharat there is the story of Ramayan ?+
+:Van _
+:In which Parva of Mahabharat the story of Nal-Damyanti is described?+
+:Van _
+:Which Parva of Mahabharat there is description of forceful undressing of Draupadi ?+
+:Sabha_
+:In which Parva of Mahabharat there is description of gambling of Yudhishthir ?+
+:Sabha _
+:In which Parva of Mahabharat there is description of Pandava’s marriage with Draupadi ?+
+:Adi _
+:In which Parva of Mahabharat there is description of burning of Laksha grah ?+
+:Adi_
+:Which Parva of Mahabharat has description of Indra’s begging of Kundal &amp; Kavach from Karan?+
+:Van_
+:In which Parva of Mahabharat is description of Pandava’s year  of hiding ?+
+:Virat _
+:In which Parva of Mahabharat is description of killing of Keechak ?+
+:Virat_
+:In which Parva of Mahabharat there is description of marriage of  Abhimanyu and Uttara ?+
+:Virat_
+:Which Parva contains description about getting and leaving the status of Indra by king Nahush?+
+:Udyog _
+:Which Parva of Mahabharat contains description of Vidur niti ?+
+:Udyog _
+:In which Parva Arjun attempted to kill Yudhishthir with sword is narrated ?+
+:Karan_
+:In which Parva Aswathama advised Duryodhan to compromise with Pandavas is narrated?+
+:Karan _
+:Which Parva of Mahabharat has description of ParasharGeeta ?+
+:Shanti _
+:In which Parva of Mahabharat there is description of death of Bhishm pitamah ?+
+:Anushasan _
+:Name the mother Bhishma Pitamah ?+
+:Ganga _
+:Name the father Bhishma Pitamah ?+
+:Shantanu_
+:What was the real name of Bhishma Pitamah ?+
+:DevVrat_
+:Which king , other than Yudhishthir, lost his kingdom in gambling ?+
+:Nal_
+:Which state was ruled by king Nal ?+
+:Nishadh_
+:Whose daughter was Damyanti, the queen of king Nal ?+
+:Bhimak_
+:To whom the king Nal lost his kingdom in gambling ?+
+:Pushkar_
+:Name the sister of Vasudeo ?+
+:Pritha_
+:Which sailor woman did Shantanu marry ?+
+:Satyavati_
+:Name the father of sati Savitri ?+
+:Ashwapati _
+:Name the mother of sati Savitri ?+
+:Malvi_
+:Who is one of the sons of Satyavati ?+
+:Chitrangad_
+:Who, according to Mahabharat, threw her seven children into the  Ganga river?+
+:Ganga_
+:Name the mother of Dhritrashtra ?+
+:Ambika_
+:Name the mother of Pandu ?+
+:Ambalika_
+:What was the name of third princess Bhisma abducted ?+
+:Amba_
+:Amba and Ambalika were the princesses of which state ?+
+:Kashi_
+:Whose wife was Kunti ?+
+:Pandu_
+:What is the other name of Kunti ?+
+:Pritha_
+:Name the second wife of Pandu?+
+:Madri_
+:Madri was the princess of which state ?+
+:Madra_
+:Who taught archery to Bhishma and Draunacharya ?+
+:Parshuram_
+:By what name are Dhritrashtra\'s sons known ?+
+:Kauravas_
+:By what name are Pandu\'s sons known ?+
+:Pandavas_
+:Who tied a blind fold on her eyes just after her marriage according to Mahabharat ?+
+:Gandhari_
+:Ghandhari was the princess of which state ?+
+:Gandhar_
+:Who is known as Dharamputra in Mahabharat ?+
+:Yudhishthir_
+:Name the warrior guru of Kauravas and Pandavas ?+
+:Dronacharya_
+:The Bheel who learnt archery taking orders from the statue of his guru ?+
+:Eklavya_
+:Who was the minister of Dhritrashtra ?+
+:Vidur_
+:In which city was Krishna born ?+
+:Mathura_
+:Name the charioteer for Krishna\'s Chariot ?+
+:Daruk_
+:Who presented famous konch Devdutt to Arjun ?+
+:Mayasur_
+:Name the priest of Pandavas ?+
+:Dhaumya_
+:Which was the capital of Yudhishthir\'s empire ?+
+:Indraprastha_
+:The architect who constructed abnormal castle for Yudhishthar where Duryodhan was illusioned ?+
+:Mayasur_
+:Name the real mother of Karna ?+
+:Kunti_
+:Who was the first to get married amongst the Pandavas ?+
+:Bheem_
+:Draupadi was the princess of which state ?+
+:Panchal_
+:What was the childhood name of Draupadi ?+
+:Krishna_
+:Name the lady who was wife of Arjun, sister of Krishna and mother of Abhimanyu ?+
+:Subhadra_
+:In order to save a Brahmin family in Ekchakra town, Bhim killed  a demon. Name him?+
+:Bakasur_
+:Where from Draupadi and Dhrishtadyumn were born ?+
+:Yagya_
+:Whose daughter was Chitrangda, wife of Arjun?+
+:Chitravahan_
+:Whose daughter was Ulupi, wife of Arjun ?+
+:Kauravya_
+:Who gave gandiva to Arjun and chakra to Krishna ?+
+:Varun_
+:Who was Mayasur ?+
+:Architect of Demons_
+:Who gave peculiar pot with endless meals to Pandavas when  they went into exile ?+
+:Surya_
+79: Where did Pandavas spend their year of hiding in exile ?+
+:Viratnagar_
+:Where did Kunti live when Pandavas were in exile ?+
+:Hastinapur_
+:Which saint accompained pandavas during their exile ?+
+:Dhaumya_
+:What was the disguised name of Draupadi during the year of hiding of Pandavas ?+
+:Sairandhri_
+:What was the disguised name of Yudhishthir during the year of hiding of Pandavas ?+
+:Kank_
+:What was the disguised name of Bheem during the year of hiding of Pandavas ?+
+:Ballav_
+:What was the disguised name of Arjun during the year of hiding of Pandavas ?+
+:Brihannala_
+:What was the disguised name of Sahdev during the year of hiding of Pandavas ?+
+:Arishtanemi_
+:What was the disguised name of Nakul during the year of hiding of Pandavas ?+
+:Granthik_
+:Whatwork was allotted to Yudhishthir during his year of hiding ?+
+:Gambling_
+:What work was allotted to Bhim during his year of hiding ?+
+:Cook_
+:What work was allotted to Arjun during his year of hiding ?+
+:Dance_
+:What work was allotted to Nakul during his year of hiding ?+
+:Horses_
+:What work was allotted to Sahdev during his year of hiding ?+
+:Cows_
+:Who taught Arjun dancing during exile ?+
+:Chitrasen_
+:Who took the responsibility to look after boarding arrangements in the Rajsuya yagna of Yudhishthir ?+
+:Dushasan_
+:Who was given the honour of best guest in Rajsuya yagna ?+
+:ShriKrishna_
+:Name the Konch owned by Shri Kishna ?+
+:Panchjanya_
+:Name the Konch owned by Yudhishthir ?+
+:Anant Vijay_
+:Name the Konch owned by Bheem?+
+:Paundra_
+:Name the Konch owned by Arjun ?+
+:Devdutt_
+:Name the konch owned by Nakul ?+
+:Sughosh_
+:Name the konch owned by Sahdev ?+
+:Manipushpak_
+:Where was Mahabharat war fought ?+
+:Kurukshetra_
+:Who was the brave warrior who remained neutral in Mahabharat war ?+
+:Rukmi_
+:Name the brother of Madri, who fought in favour of Kauravas ?+
+:Shalya_
+:Who was Dhritrashtra\'s son ?+
+:Yuyutsu_
+:Who from Kaurav\'s fought from Pandav\'s side ?+
+:Yuyutsu_
+:Who was the first commander of Kaurava'\s forces in Mahabharat War ?+
+:Bhishma Pitamah_
+:Who was the commander of Kauravas after Bhisma ?+
+:Dronacharya_
+:Who was the first commander of Pandavas forces in Mahabharat War ?+
+:Dhrishtadyumn_
+:Who arranged forces to form Chakravyuh in Mahabharat ?+
+:Dronacharya_
+:Who killed Ghatotkach, the son of Bheem in Mahabharat war ?+
+:Karna_
+:Karna procured '\Shakti\' from Indra to kill who ?+
+:Ghatotkach_
+:Other than Ashwathama which warrior who used Brahmastra in Mahabharat war ?+
+:Arjun_
+:Which deadly weapon was used by Ashwathama against the Pandavas ?+
+:Brahmastra_
+:Which deadly weapon did Arjun receive from lord Shiva ?+
+:Pashupatastra_
+:Who forced to break vow of Shri Krishna not to use arms in Mahabharatat War ?+
+:Bhishma_
+:Who killed Virat and Drupad ?+
+:Dronacharya_
+:Which state was reigned by Jarasandh ?+
+:Magadh_
+:Who killed Jarasandha ?+
+:Bheem_
+:To whom did the elephant, named Aswathama belong ?+
+:Indra Verma_
+:Who killed the elephant Aswathama ?+
+:Bhim_
+:Who announced first that Aswathama was killed ?+
+:Bhim_
+:Who killed Dronacharya ?+
+:Dhrishtdyumn_
+:Who took command of the army after Dronacharya ?+
+:Karan_
+:Who killed Idavan, the son of Arjun ?+
+:Alumbush_
+:Name the son of Duryodhan ?+
+:Laxman_
+:Who killed Laxman, the son of Duryodhan ?+
+:Abhimanyu_
+:Name the bow of Karan ?+
+:Vijay_
+:Whose arms were crushed by Bheem to fulfil his vow ?+
+:Dushasan_
+:Who killed Dushasan ?+
+:Bhim_
+:Who killed Karan ?+
+:Arjun_
+:Who killed Dhristhdyumn, Uttamoja and Yudhamanu ?+
+:Aswathama_
+:Who killed the five sons of Draupadi?+
+:Aswathama_
+:Who became the commander of Kauravas forces after Karan\'s death ?+
+:Shalya_
+:Who killed Uluk, the son of Shakuni ?+
+:Sahdev_
+:Who killed Shakuni ?+
+:Sahdev_
+:Who killed Shalya ?+
+:Yudhishthir_
+:What advice was given to Yudhishthir by Vyas after the end of war ?+
+:Yagya_
+:Whom didYudhishthir appoint as a Yuvraj after his coronation ?+
+:Bhim_
+:Whom did Yudhishthir appoint as a Minister after his coronation?+
+:Vidur_
+:Whom did Yudhishthir appoint as Incharge of Finance after his coronation ?+
+:Sanjay_
+:Whom did Yudhishthir give charge to look after the Army after his coronation ?+
+:Nakul_
+:Whom did Yudhishthir give the charge to safeguard against enemies after his coronation ?+
+:Arjun_
+:Name the son of Abhimanyu ?+
+:Parikshit_
+:Which Pandav went after the horse in the aswamedh yagna ?+
+:Arjun"
+    </string>
+    <string name="ramayan_ques_ans_string">
+        ":Who is the writer of Ramayana ?+
+:Valmiki_
+:Which is the other name of Ramayana ?+
+:Dashanan Vadh_
+:Which incident hurt Valmiki that he wrote the first shloka of Ramayan ?+
+:Bird Kill_
+:Who inspired Valmiki to write Ramayana ?+
+:Brahma_
+:By which name are the chapters of Ramayana known ? +
+:Kands_
+:Who founded Ayodhya for the first time ?+
+:Manu_
+:Ayodhya was the capital of which Janpada ?+
+:Kaushal_
+:Who was the father of Ikshwaku, the first king of Ayodhya ?+
+:Manu_
+:Who was the father of king Dashrath ?+
+:Aj_
+:To which dynasty did king Dashrath belong ?+
+:Ikshvaku_
+:Where was the horse left for Aswamedh yagna by Sagar, ancestor of Ram found ?+
+:Kapil's monastry_
+:Who brought back the horse of King Sagar’s Aswamadh yagya ?+
+:Anshuman_
+:According to Hindu mythology, who brought Ganga on earth ?+
+:Bhagirath_
+:Name the king who requested Vashistha for a yagya to send him vbodily to the heaven ?+
+:Trishanku_
+:The Mantras regarding Putreshti yagna have been taken from which Veda ?+
+:Atharva_
+:Who was Royal priest of King Dashrath ?+
+:Vashistha_
+:Who was the Priest of King Dashrath besides Guru Vashistha ?+
+:Vam Dev_
+:Which yagna was performed by king Dashrath to have sons ?+
+:Putraishthi_
+:Name the father of Bhagirath, who brought Ganga to earth ?+
+:Dalip_
+:Sharvan Kumar's parents cursed which king ?+
+:Dashrath_
+:Name Kaikayee'\s father ?+
+:Ashwapati_
+:What is the common name of Rishi Kaushik in Ramayana ?+
+:Vishwamitra_
+:Which river is also called ‘Jahnavi’ ?+
+:Ganga_
+:What was the name of the place where Vishwamitra was performing his yagya ?+
+:Siddhasram_
+:Who accepted to perform this yagya when vashistha refused ?+
+:Vishwamitra_
+:Who accompanied Vishwamitra in the yagya organised by Maharaj Janak ?+
+:Ram-Lakshman_
+:On whose insistance, Dashrath agreed to send Ram and Laxman with Vishwamitra ?+
+:Vashistha_
+:To whom Ram killed first while going to the forest with saint Vishwamitra ?+
+:Tadka_
+:Which demon was killed by Ram while rescuing the yagya of Vishwamitra ?+
+:Subahu_
+:Who was Mareech\'s mother ?+
+:Tadka_
+:Where did Kushdhwaj, the brother of king Janak rule ?+
+:Sankakshya_
+:The mother of Parshuram ?+
+:Renuka _
+:The father of Parshuram ? +
+:Jamadgni_
+:Name the wife of Maharshi Gautam ?+
+:Ahilya_
+:Name the father of king Janak ?+
+:Hriswaroma_
+:Name the Guru of king Janak ?+
+:Shatanand_
+:Who gave birth to Sita ?+
+:Earth_
+:What is the literal meaning of Sita ?+
+:Harrow_
+:The lady who had a discussion with Yagyavalkya ?+
+:Gargi_
+:Who is known as Vaidehi in Ramayana ?+
+:Sita_
+:Name the protector mother of Sita ?+
+:Sunayna_
+:Which saint was annoyed when Shiva Dhanush was broken ?+
+:Parshuram_
+:Name Janak’s daughter other then Sita ?+
+:Urmila_
+:Name Laxman\'s wife in Ramayan ?+
+:Urmila_
+:Name Bharat\'s wife in Ramayan ?+
+:Mandavi_
+:Name Shatrughana\'s wife in Ramayana ?+
+:Shrutkriti_
+:Name the father of Bharat’s wife Mandvi ?+
+:Kushdhwaj_
+:Name the father of Shatrughan's wife Srutikirti ?+
+:Kushdhwaj_
+:Where did Kushdhwaj, the brother of king Janak rule ?+
+:Sankakshya_
+:Which place Nishad Raj Guh ruled ?+
+:Shrangverpur_
+:Where did Ram and others rest on the first day of his exile ?+
+:Tamsa riverbed_
+:Where was the ashram of Rishi Bharadwaj situated ?+
+:Prayag_
+:Where was Ram advised to live during his exile by Bharadwaj Muni ?+
+:Chitrakoot_
+:Who occupied the throne of Ayodhya after Ram’s exile ?+
+:Khadaun_
+:When Ram was in exile, where did Bharat live ?+
+:Nandigram_
+:The Rishi whose wife was Anusuya ?+
+:Atri_
+:In which forest did Ram enter after Chitrakoot ?+
+:Dandakaranya_
+:Who was the owner of the cow Kamdhenu according to Ramayana ?+
+:Vashistha_
+:Where did Supankha meet Ram and Laxman ?+
+:Panchvati_
+:Who was the protector of Punchvati area ?+
+:Khar_
+:Which chapter of Ramayana contains the abduction of Sita?+
+:Aranyakand_
+:Who advised Rawan to abduct Sita ?+
+:Akampan_
+:Whose help Rawan sought for the abduction of Sita ?+
+:Marich_
+:From whom Rawan snatched the Pushpak aircraft ?+
+:Kuber_
+:At the time of abduction of Sita, which king of birds had a fight with Ravan ? +
+:Jatayu_
+:At the bank of which river Ram cremated Jatayu ?+
+:Godavari_
+:Which demon did Bali kill ?+
+:Mayasur_
+:Which state was ruled by monkey king Bali ?+
+:Kishkindha_
+:In the monastery of which saint Bali killed Dundubhi ?+
+:Saint Matang_
+:Which was the meeting place of Ram and Sugriva for the first time ?+
+:Rishyamook Hills_
+:Name the wife of Sugreev ?+
+:Ruma_
+:Name the wife of Bali ?+
+:Tara_
+:Name the chief of the group of soldiers sent in the east direction to search Sita ?+
+:Vinat_
+:Name the chief of the soldiers sent in the south direction to search Sita ?+
+:Angad_
+:Name the chief of the soldiers sent in the west direction to search Sita ?+
+:Sushen_
+:Name the chief of the soldiers sent in the north direction to search Sita ?+
+:Shatbali_
+:Who went in search for Sita in south ?+
+:Jamvant_
+:Who gave information regarding Sita’s abode to Angad ?+
+:Sampati_
+:Who reminded Hanuman his strength at the time of crossing the ocean ?+
+:Jamvant_
+:From which mountain did Hanuman make a flying start across the ocean ?  +
+:Mahendra_
+:Which mountain emerged from the ocean when Hanuman was crossing it ? +
+:Mainak_
+:Who was sent to test the ability of Hanuman while he crossed the ocean ? +
+:Sursa_
+:Who caught Hanuman\'s reflection in water to retain his speed ?+
+:Singhika_
+:Who was the first to meet when Hanuman reached Lanka after crossing the ocean ?+
+:Lankini_
+:Where was Sita kept in Lanka by Ravan after her abduction ?+
+:Ashok Vatika_
+:Where did Hanuman and Sita meet for the first time ?+
+:Ashoka vatika_
+:Which son of Ravan was killed by Hanuman ?+
+:Akshya Kumar_
+:Who was the son of Ravan ?+
+:Akshya Kumar_
+:Who captured Hanuman in Ashok Vatika and presented him before Ravan ?+
+:Meghnad_
+:What did Sita give to Hanuman as the mark of her identify for Ram ?+
+:Chudamani_
+:From which mountain did Hanuman make a flying start from Lanka ?+
+:Aristha_
+:Which garden was devastated by monkeys ?+
+:Madhuban_
+:Who looked after Madhuban garden of Sugreev ?+
+:Dadhimukh_
+:Who carried Laxman on his shoulders when army started from Kishkindha ?+
+:Angad_
+:Who carried Ram on his shoulders when his army started from Kishkindha ?+
+:Hanuman_
+:Who was the main contributor in building the bridge over the ocean ?+
+:Nal_
+:What was the name given to the bridge ?+
+:Nal Setu_
+:Name the mountain where the army of Ram camped after crossing the ocean ?+
+:Suvel_
+:Atop which hill Lanka was situated ?+
+:Trikuta_
+:Which place had four main gates ?+
+:Lankapuri_
+:Who advised Ravan to compromise with Ram ?+
+:Malyavan_
+:Who came forward in support of Vibhishan to join Ram ?+
+:Hanuman_
+:Who killed Lavnasur ?+
+:Shatrughana_
+:Who convinced Sita that Ram and Laxman were alive ?+
+:Trijita_
+:Who unbound tied Ram and Laxman ?+
+:Garud_
+:Who killed Meghnad ?+
+:Laxman_
+:Who killed Kumbhkarna ?+
+:Ram_
+:Who sent his chariot seeing that Ram was fighting against Ravan on foot? +
+:Indra_
+:Who was the charioteer of the chariot sent by Indra ?+
+:Matli_
+:Which great lady of Lanka is revered as Sati ?+
+:Sulochana_
+:Where did Ram go to repent for a Brahman\'s killing ?+
+:Rameshwaram_
+:Whom did Ram greet first after returning from exile ?+
+:Kaikai_
+:In which ashram  did Lav and Kush born ?+
+:Valmiki\'s Ashram_
+:To whom Ram offered the post of Yuvraj when he was crowned as king ?+
+:Laxman_
+:Who was given the post of Yuvraj when Laxman refused it ? +
+:Bharat_
+:Shatrughana was made king of which place ?+
+:Madhupuri_
+:Kush was made king of which place ?+
+:South Kausala_
+:Lav was made king of which place ?+
+:North Kausala_
+:Who left for heavenly abode first among the brothers ?+
+:Laxman_
+:Which land contains the reference of coronation ceremony of Ram ?+
+:UttarKand_
+:Whose achievements are described in Sunder Kand ?+
+:Hanuman"
+    </string>
+    <string name="mahan_guru_string">":Guru of Gods ?+
+:Brihaspati_
+:Guru of Asurs (demons) ?+
+:Shukracharya_
+:Ram\'s guru ?+
+:Vashishta Muni_
+:Krishna\'s, Balram\'s Sudama\'s guru ?+
+:Sandeepani Muni_
+:Kauravs\', Pandavas\' guru ?+
+:Dronacharya_
+:Chandra Gupta\'s guru ?+
+:Chanakya_
+:Mandan Mishra\'s guru ?+
+:Kumaril Bhatt_
+:Adi Shankracharya\'s guru ?+
+:Swami Gobind Bhagwat Pad_
+:Chhatrapati Shivaji\'s guru ?+
+:Samarth Ramdas_
+:First guru of Sikhs ?+
+:Guru Nanak Dev_
+:Vivekanand\'s guru ?+
+:Ramakrishna Paramahans_
+:Dayanand Sarswati\'s guru ?+
+:Swami Virjanand_
+:Eknath\'s guru ?+
+:Janardan Swami_
+:Tulsidas\'s guru ?+
+:Narhari Das_
+:Surdas\'s guru ?+
+:Valabhacharya_
+:Kartikeyan\'s guru ?+
+:Samudra Rishi_
+:Swami Gobind Pad\'s guru ?+
+:Bhaskar Muni_
+:Tansen\'s guru ?+
+:Swami Hari Das_
+:Kabir\'s guru ?+
+:Ramanand_
+:Guru of Bhishma and Karan ?+
+:Parashuram_
+:Chaitanya Mahaprabhu\'s guru ?+
+:Keshav Bharti_
+:Banda Bairagi\'s guru ?+
+:Janaki Das_
+:Bala-Mardana\'s guru ?+
+:Guru Nanak_
+:Ramanujacharya\'s guru ?+
+:Nambi_
+:Madhavacharya\'s guru ?+
+:Achyutpakshacharya_
+:Nimbakracharya\'s guru ?+
+:Narad_
+:Vallabhacharya\'s guru ?+
+:Madhvendrapuri_
+:Ramkrishn Paramhans\'s guru ?+
+:Paramhans Totapuri"
+    </string>
+
+    <string name="dharm_sthal_string">":Name the temple where ice takes the shape of ‘Shivaling’ once in a year ?+
+:Amarnath_
+:In which state is Vaishno Devi temple located?+
+: Jammu &amp; Kashmir_
+:Where did Shankaracharya establish a Math in North India?+
+:Badrinath_
+:In which State is the famous Sikh\'s pilgrimage Hemkund Sahib situated?+
+: Uttarakhand_
+:In which state is Hazrat Bal Mosque located?+
+: Jammu - Kashmir_
+:Where is Golden Temple situated?+
+: Amritsar_
+:In which state is Sarnath situated?+
+: Uttar Pradesh_
+:Where is the only temple of Brahma situated?+
+:Pushkar_
+:Where is the famous historic Sun Temple dedicated to Sun God situated?+
+: Konark_
+:Where did Shankaracharya establish a Math in East?+
+: Puri_
+:Which important three deities have their statues in Jagannath Puri?+
+: Sri Krishna_
+:To which deity is Kedarnath temple dedicated ?+
+: Shiva_
+:To which deity is Badrinath temple dedicated ?+
+: Vishnu_
+:Which is the only temple of the gods of treasurer ?+
+: Badrinath_
+:Which pious Math was established in the West by Shankaracharya?+
+: Dwarka Dham_
+:Where did Shankaracharya establish the religious math in South India?+
+: Shringeri_
+:Where is the temple of Kali in which Ram Krishna Paramhans held the postition of a priest?+
+: Dakshineshvar_
+:Which is the biggest mosque of India?+
+:Jama Masjid_
+:In which state is Palitana temple of Jains situated ?+
+: Gujarat_
+:In which state is Somnath temple situated?+
+: Gujarat_
+:In which state is Parsi\'s Agni Temple situated?+
+: Gujarat_
+:In which state is holy Gomteshwar Jain temple situated?+
+:Karnataka_
+:Which temple of India gets maximum offerings?+
+: Tirupati_
+:On which mountain is the Tirupati temple situated?+
+: Tirumalai_
+:To which deity is Tirupati Temple dedicated?+
+: Venkateshwar_
+:Where is Vishwanath temple situated?+
+: Varanasi_
+:In which state is the famous Lingraj temple situated?+
+: Orissa_
+:In which state is Tarkeshwar Temple situated?+
+:Dadar and Nagar haveli_
+:In which state is the Arvind Ashram situated?+
+: Pondichery_
+:In which state is famous Jyotirling ‘Ghushmeshwar‘ situated?+
+:Maharashtra_
+:Where is Kaila Devi temple situated?+
+: Karauli_
+:Where is Shrinath temple situated?+
+: Nath Dwara_
+:In which state is Omkareshwar temple situated?+
+:Madhya Pradesh_
+:In which state Jambukeshwar temple situated?+
+:Near Sri Rangam_
+:Where is the Shakumbhari Devi temple situated?+
+:Saharanpur_
+:Where is the Vindhya Vasini temple situated?+
+: Vindhyachal_
+:Where the Pateshwari Devi Temple situated?+
+: Devi Patan_
+:In which state is the Mallikarjun Swami temple situated?+
+:Andhra Pradesh_
+:In which state is the Mukheshwar temple situated?+
+: Orrisa_
+:Where is the Kamakhya Devi temple situated?+
+:Guwahati_
+:In which state is the Jwala ji temple situated?+
+: Himachal Pradesh_
+:In which state is the Naina Devi temple situated?+
+: Himachal Pradesh_
+:In which state is the Kanya Kumari temple situated?+
+: Tamilnadu_
+:The deity of which god is worshipped in Rameshwaram temple?+
+:Shiva_
+:The deity of which god is worshipped in the temple of Guru Vayur?+
+: Shri Krishna_
+:The deity of which god is worshipped in the Dharamsthal temple of Karnataka?+
+: Manjunath_
+:The deity of which god is worshipped in the Sabrimala temple on the western coast of Kerala?+
+: Swami Ayappan_
+:The deity of which god is worshipped in the Shri Rangam temple near Tiruchi?+
+: Anantshayanam_
+:Where is the famous temple of Kartikeyan in South India situated ?+
+: Palani_
+:Where is the ashram of Raman Maharshi situated?+
+:Tiruvanamallai_
+:Name the place which is the confluence of three oceans and where the sunrise and sunset can be seen at the same spot ?+
+:Kanyakumari_
+:Name the mosque and place where the number of Hindu worshippers is far more than the muslims ?+
+:Babar Masjid_
+:Who was the most popular devotee of Vishnu in South India like Meera in North?+
+: Aandaal_
+:In which district of Arunachal Pradesh do the Heenyan followers of Buddhism, once called kamptis live?+
+: Lohit_
+:Name the Assamese tribe who has adopted Vaishnavism ?+
+:Mishing_
+:The Meiteis inhabititing the plains of Manipur mostly belong to which religion?+
+: Hindu_
+:To which religious group do the chakmas principally belong?+
+: Buddhism_
+:During the medivial period which place in Assam became a centre of Tantrik worship?+
+: Kamrup_
+:In which state is Kamakhya temple situated?+
+: Assam_
+:Besides Kamakhya, which other peeth is situated in Assam?+
+: Sri Hatta_
+:Which temple is situated to the west side of the Kamakhya temple ?+
+: Ghantakarn Temple_
+:Who is the creator of this universe according to Garo tribe?+
+: Tatara Rabuga_
+:Which bird plays an important role in Khasi religion?+
+: Cock_
+:What is name given to the priest by Khasis in Meghalaya?+
+:U Lingdoh_
+:The tribe which belong to west Kameng district of Arunachal Pradesh ?+
+:Teharo_
+:Where is Ashvakranta temple situated?+
+: Guwahati_
+:The image of which god is placed in Ashvakranta temple?+
+:Vishnu_
+:In which state is Vashistha Ashram situated?+
+: Assam_
+:Name the temple situated on the Peacock Island in the midst of the river Brahmaputra?+
+: Umanand_
+:In which state is Ugra Tara temple situated ?+
+: Assam_
+:Atop which hill is the Navgrah temple situated ?+
+: Chitrakala_
+:Shri Govindjee temple is present in which other state ?+
+: Manipur_
+:Where is the Shiva Dol temple, the highest Shiva temple in India, situated?+
+: Assam_
+:In which state are the Buddhist temple called Gompas by their inhabitants situated?+
+: Arunachal Pradesh_
+:Name the village of Do Parbatiya having ruins of the oldest temple of Assam ?+
+:Sonitpur_
+:Where did Vishnu kill Jwarasur according to Kalika Purana?+
+:Manikuta hills_
+:Which is the state in North Eastern region where Lord Krishna married ?+
+: Arunachal Pradesh"
+    </string>
+
+    <string name="lalit_kala_string">": Which one of the Vedas Related with music?+
+: Saam Ved  _
+: Who was the teacher of famous musicians Tansen &amp; Baiju Bawara?+
+: Hari Das_
+: Who composed the ragas like ‘Mian KiMalhar’, ‘Darbari’, ‘Kannad’ and ‘Mian Ki Tori’?+
+: Tansen_
+: Which dance form was presented by the Devdasis in the temples of South Bharat?+
+: Bharatnatyam_
+: Rukmani Devi, Mrinalini Sarabhai, Leela Samson are the perfomers of which type of dance?+
+: Bharatnatyam_
+: Which dance form got developed in royal courts?+
+: Kathak_
+: Which dance form was patronised by Wajid Ali Shah?+
+: Kathak_
+: Bindadin Maharaj, Gopi Krishna and Birju Maharaj perform which type of dance form?+
+: Kathak_
+: Kathakali dance belongs to which state?+
+: Kerala_
+: The famous poet Vallatol was a source of inspiration for which type of dance form?+
+: Kathakali_
+: Kuchipudi is the dance of which state?+
+: Andhra Pradesh_
+: Which type of dance was developed by Tirath Narain and Sidh Yogi?+
+: Kuchipudi_
+: Vedant, Satya Narayan, Raja Reddy and Radha Reddy are associated with which type of dance?+
+: Kuchipudi_
+: Which is the main dance form of Manipur?+
+: Manipuri_
+: Odissi is the dance of which state?+
+: Orissa_
+: Kelucharan Mahapatra and Indirani Rehman are associated with which type of dance?+
+: Odissi_
+: Jatra' type of stage performance belongs to which state?+
+: West Bengal_
+: In which state is ‘Tamasha’ performed?+
+: Maharashtra_
+: Bhawai is the art of which state?+
+: Gujarat_
+: ‘Nautanki’ is the performing art of which state?+
+: Uttar Pradesh_
+: ‘Maach’ is the performing art of which state?+
+: Madhya Pradesh_
+: ‘Khyal’ is the performing art of which state?+
+: Rajasthan_
+: ‘Nakal’ is the performing art of which state?+
+: Punjab_
+: ‘Bhand Paathar’ is the performing art of which state?+
+: Jammu-Kashmir_
+: ‘Yaksha Gaan’ is the performing art of which state?+
+: Karnataka_
+: ‘Ankia Naat’ is the performing art of which state?+
+: Assam_
+: ‘Koodia Drivya’ is the performing art of which state?+
+: Kerala_
+: ‘Raas Leela’ &amp; ‘Ram Leela’ are the performing arts of which state?+
+: Uttar Pradesh_
+: Vijay Mehta, Arvind Deshpandey and Amol Palekar are the actors of which language?+
+: Marathi_
+: In which language have the plays Yayati, Tuglak, Havyadan, Naam Mandal been written?+
+: Kannad_
+: The theatre actors K.Shivram Karanth, Girish Karnad &amp; Lankesh perform in which language?+
+: Kannad_
+: The plays ‘Kaath Ka Ghora’, 'Suryast' and Asangat are written in which language?+
+: Oriya_
+: Rama Shankar Rai, Manoranjan Das, Jagannath Das and Basant Kumar Mahapatra ?+
+: Oriya_
+: Imphal Imphal, Chakra Vyuha &amp; Karan Bharat are associated with which type of theatre?+
+: Manipuri_
+: Begam Akhtar specialised in which form of vocal music?+
+: Gazal singing_
+: The dance form ‘Mohini Attam’ belongs to which state?+
+: Kerala_
+: ‘Chakiyar Kondu’ dance belongs to which state?+
+: Kerala_
+: ‘Oattam Thulal’ dance belongs to which state?+
+: Kerala_
+: The dance ‘Bhangra’ belongs to which state?+
+: Punjab_
+: The dance ‘Bideshia’ belongs to which state?+
+: Bihar_
+: To which state does the dance ‘Bihu’ belong?+
+: Assam_
+: To which state does the dance ‘Chhau’ belong?+
+: Odisha_
+: To which state does the dance ‘Chiraw’ belong?+
+: Mizoram_
+: To which state does the dance ‘Dandia Raas’ belong?+
+: Gujarat_
+: To which state does the dance ‘Gangaur’ belong?+
+: Rajasthan_
+: To which state does the dance ‘Garba’ belong?+
+: Gujarat_
+: To which state does the dance ‘Gidha’ belong?+
+: Punjab_
+: To which state does the dance ‘Jhoolan Leela’ belong?+
+: Rajasthan_
+: To which state does the dance ‘Maharaas’ belong?+
+: Manipur_
+: To which state does the dance ‘Pandwani’ belong?+
+: Chhattisgarh_
+: To which state does the dance ‘Swang’ belong?+
+: Haryana_
+: Which type of dance do Bala Saraswati, Krishnan Kutti and Udai Shankar perform?+
+: Kathakali_
+: Whichmusical instrument do Allah Rakha Khan, Krishna Maharaj and Zakir Hussain play upon?+
+: Tabla_
+: Which musical instrument do Ali Akbar Khan, Allauddin Khan, Amjad Ali Khan play upon?+
+: Sarod_
+: Which musical instrument does Annapurna Devi play upon?+
+: Surbahar_
+: Which musical instrument did Bismillah Khan play upon?+
+:Shahnai_
+: Whichmusical instrument do Budhaditya Mukherjee, Ravi Shankar play upon?+
+:Sitar_
+: Which musical instrument do Gajanan Rao Joshi, V.G. Jog &amp; Zubin Mehta play upon?+
+: Violin_
+: Which musical instrument does Hari Prasad Chaurasia play upon?+
+: Flute_
+: Which musical instrument does S. Balachandra play upon?+
+: Veena_
+: Which musical instrument do Shiv Kumar Sharma and Tarun Bhattacharya play upon?+
+: Santoor_
+: Which musical instrument does Vishwa Mohan Bhatt play upon?+
+: Guitar_
+: A.K. Haldar, Amrita Shergil, Bimal Gupta, belong to which field of fine arts?+
+: Painting_
+: Gagnendra Nath Tagore, Jemini Roy, Nand Lal Bose, belong to which field of fine arts?+
+: Painting_
+: The following artists
+:Keshav Shanker Pillai is famous for which field of fine arts?+
+:Cartoons_
+:R.K. Laxman is famous for which field of fine arts?+
+:Cartoons_
+: To which field of fine Arts do Balamurlikrishna, M.S. Subbulaxmi belong ?+
+: Vocals_
+: Who is the writer of the Manipuri play ‘Narsingh’ in 1925?+
+: Ram Chandra Singh_
+: Who wrote ‘Kaniyar Kirtan’ which portrays a social theme on the evils of opium eating?+
+: Hem Chandra Barua_
+: Which state has one particular tribe noted for open air theatrical performance ?+
+: Mizoram_
+: Who was the pioneer of Ankai nut or one act plays in Assamese?+
+: Shankar Dev_
+: Name the author of the books ‘Rukmani Haran’ ‘Parijat Haran’, ‘Patni Prasad’ ?+
+:Shankar Dev_
+: To which state did the famous singer Sachin Deb Burman belong?+
+: Tripura_
+: In which state are spanish guitar and Darbu used?+
+: Mizoram_
+: By whom was the Khol, which is used in Assam, invented?+
+: Shankar Dev_
+: Raag Todi &amp; Lalit are sung during which period of the day?+
+: Morning_
+: Vrindawani saarang is sung or played during which period of day?+
+: Afternoon_
+: Name the Supreme God of Akas tribe of Arunachal Pradesh ?+
+:Teharo_
+: Name the supreme god of Nishi tribe of Arunachal Pradesh ?+
+:Ane Duini_
+: Where is Ashvakranta temple situated?+
+: Guwahati_
+: The image of which god is placed in Ashvakranta temple?+
+:Vishnu_
+: In which state is Vashistha Ashram situated?+
+: Assam_
+: Name the temple situated on the Peacock Island in the midst of the river Brahmaputra?+
+: Umanand Temple_
+: In which state is Ugra Tara temple situated?+
+: Assam_
+: Atop which hill is the Navgrah temple situated?+
+: Chitrakala_
+: Where is the Shiva Dol temple, the highest Shiva temple in India, situated?+
+: Assam_
+: In which state are the Buddhist temple called Gompas by their inhabitants situated ?+
+: Arunachal Pradesh_
+: Name the village of Do Parbatiya having ruins of the oldest temple of Assam ?+
+:Sonitpur_
+: Where did Vishnu kill Jwarasur according to Kalika Purana?+
+:Manikuta hills_
+: State North Eastern region where Lord Krishna married his consort Rukmini?+
+: Arunachal Pradesh"
+    </string>
+
+    <string name="dharm_ques_ans_string">"1:Which are the most ancient religious books of Hindus? +
+:Veda_
+3:Which of the four Vedas, is the largest? +
+:Rigveda_
+4:Which Veda deals in medical science? +
+:Atharavveda_
+5:Which Veda deals in Music? +
+:Samveda_
+8:Name the place where Brahma performed his first Yagna? +
+:Kanpur_
+12:Who is one of the two main personalities in Srimad Bhagwat? +
+:King Parikshit_
+13:Name the author of Srimad Bhagwat? +
+:Sri Ved Vyas_
+14:Which king accepted to work as cremation ground keeper to keep his words? +
+:Harishchandra_
+15:By which name is Garhwal known in Skand Puran? +
+:KedarKhand_
+16:Who went to Gopis to deliver the message of Shri Krishna? +
+:Uddhav_
+17:Name the child who offered himself to the Lord Yam to obey his father? +
+:Nachiketa_
+18:Name the king who offered flesh of his body to the hawk to save a pigeon? +
+:King Shibi_
+20:Who founded the four Mathas of the Hindus? +
+:Shankaracharya_
+21:Where was Adiguru Shankaracharya born? +
+:Kaladi_
+23:Who is the founder of Adwaitwad? +
+:Shankaracharya_
+24:Who is the founder of Dwaitwad? +
+:Madhwacharya_
+25:Where was Madhwacharya born? +
+:Uddupi_
+26:Where did Sankaracharya die? +
+:Kedarnath_
+27:Where are the deity of Badri Nath shifted in winter season? +
+:Joshi Math_
+30:Which religion was founded by Lord Buddha? +
+:Buddhism_
+31:Where was Lord Buddha born? +
+:Lumbini (Nepal)_
+32:Where did Lord Buddha attain knowledge? +
+:Bodh Gaya_
+33:Where did Lord Buddha get Nirvana? +
+:Kushinagar_
+34:To which religion are Tripitakas related? +
+:Buddhism_
+35:The first preachings of Lord Buddha at Sarnath are known as? +
+:Dharam Chakra Pravartan_
+36:Name the mother of Lord Buddha:+
+:Mahamaya_
+37:Name the maternal aunt of Lord Buddha who was his foster mother also? +
+:Prajapati Gautami_
+38:Where did Gautam Buddha preach his first Sermon? +
+:Sarnath_
+39:Who was the founder of Jain religion?+
+:Rishabhadev_
+41:What is the name of 24th Tirthankar? +
+:Swami Mahavir_
+42:Name the father of Mahavir Swami, the twentyfourth Tirthankar of Jains? +
+:Siddharth_
+43:Where was Mahavir Swami born? +
+:Kundgram_
+44:Under which tree did Mahavir Swami achieve knowledge? +
+:Ashoka_
+45:By the side of which river Mahavir Swami attained knowledge? +
+:Riju Palika_
+46:By which name is Jain literature generally known? +
+:Agam_
+47:Digmanbar is main streams in which Dharma?+
+:Jain_
+47:Shwetambar is main streams in which Dharma?+
+:Jain_
+49:Which is the birth place of Guru Nanak? +
+:Nankana Sahib_
+50:Which book has the preaching of Sikh-Gurus? +
+:Guru Granth Sahib_
+51:In memory of which Sikh Guru is Reetha Sahib Gurudwara constructed? +
+:Guru Nanak_
+52:Which is the birth place of Guru Gobind Singh? +
+:Patna Saheb_
+53:Where is the Angeetha Sahib (Samadhi) of Guru Gobind Singh situated? +
+:Nanded_
+54:Who was the first Guru of Sikhs? +
+:Guru Nanak Dev_
+56:Sisganj Gurudwara reminds us the sacrifice of which sikh Guru? +
+:Guru Teg Bahadur_
+57:Which Sikh Guru sacrificed his four sons for the Dharma? +
+:Guru Gobind Singh_
+58:Who founded Khalsa Panth? +
+:Guru Gobind Singh_
+59:What is the meaning of Khalsa? +
+:Pious/Pure_
+60:In which religion the marriage ceremony is called '\Anand Karaj\'? +
+:Sikh_
+61:Who was announced as his successor by Guru Nanak Dev? +
+:Guru Angad Dev_
+62:Which sikh guru started langar (Common dining) system? +
+:Guru Angad Dev_
+63:Name the first sikh guru who started training sikhs into military art? +
+:Guru Hargobind_
+64:Who got built Akal Takhat? +
+:Guru Hargobind_
+66:Name the sikh guru who '\Jyoti-Jot Samai\' while he was still a child:+
+:Guru Harkishan_
+68:What was the age of Guru Gobind Singh when he became guru? +
+:Nine_
+69:Where does the gurudwara stands where Guru Gobind Singh died? +
+:Sachkhand_
+70:On the bank of which river gurudwara Hazur Sahib is built? +
+:Godavari_
+71:Who killed Subedar Wazir Khan, murderer of guru Gobind Singh's sons? +
+:Banda Bairagi_
+72:Who took away the head of guru Teg Bahadur from Chandni Chowk? +
+:Bhai Jaita ji _
+73:Where was the head of guru Teg Bahadur from Chandni Chowk? +
+:Anandpur Sahib_
+74:Who prepared the original copy of Guru Granth Sahib? +
+:Bhai Gurdas_
+75:What is the name of original copy of Guru Granth Sahib? +
+:Kartarpuri_
+76:Who edited Guru Granth Sahib first of all? +
+:Guru Arjun Dev_
+77:Who completed Guru Granth Sahib? +
+:Guru Gobind Singh_
+79:Who gave recognition of sikh guru to Granth Sahib? +
+:Guru Gobind Singh_
+82:Name the state to which Chaitanya Mahaprabhu belonged? +
+:Bengal_
+83:Name the foreign disciple who preached religion alongwith Swami Vivekanand? +
+:Sister Nivedita_
+84:Sant Tukaram and Eknath hailed from which state? +
+:Maharashtra_
+85:Give the name of fifth Sikh Guru:+
+:Arjun Dev_
+86:Which river is also known as Sun’s daughter? +
+:Yamuna_
+87:Which place is the origin of river Ganga? +
+:Gaumukh_
+88:Who was the woman tested for her fidelity by the three gods? +
+:Anusuiya_
+89:Name the daughter of Daksh Prajapati and the wife of Lord Shiva? +
+:Sati (Uma)_
+90:Where is the largest Shiva Ling in India situated? +
+:Bhojpur_
+91:Which place is called Dharm Kshetra in Geeta? +
+:Kurukshetra_
+92:Where is Dronacharya Temple situated? +
+:Gurgaon_
+93:Name the Father and Mother of Bhakt Dhruva.Uttanpad+
+:Suniti_
+94:Name the Snake used for churning ocean? +
+:Vasuki_
+95:Name the son of Satyavadi Harishchandra? +
+:Rohitashva_
+96:Which place in Tamil Nadu is known as Kashi of South? +
+:Kanchipuram_
+97:Name the father of Bhakt Prahlad? +
+:Hiranya Kashyap _
+97:Name the mother of Bhakt Prahlad? +
+:Kayadhu_
+98:Name the son of Lord Krishna &amp; Rukmini? +
+:Pradyuman_
+99:Which god did Sant Tukaram worship? +
+:Vithal_
+100:Name the mother of Angad, the Son of Bali? +
+:Tara_
+101:What is the name of Muslim Calendar? +
+:Hijri_
+102:Whose temple is in Ganga Sagar? +
+:Kapil Muni_
+103:Which Goddess temple is in Kanya Kumari? +
+:Bhagwati Amman_
+104:Name the grandfather of Parshuram? +
+:Richik_
+105:Whom did Sri Krishna kill after forgiving his 99 faults? +
+:Shishupal_
+106:On which festival it is customary to wear yellow clothes according to Hindu mythology?+
+:Basant_
+107:Who broke one of the teeths of Ganesh Ji? +
+:Parshuram_
+108:Where was Narsi Mehta born? +
+:Junagarh_
+109:The kings of which dynasty built Mahabalipuram temples? +
+:Pallav_
+110:Who killed the demon Hiranyaksh? +
+:Vishnu as Varah_
+111:Who was the author of arti '\Om Jai Jagdish Hare\'? +
+:Shradhha Ram Phillauri_
+112:In which city did Ramanujacharya attain knowledge? +
+:Kanchi_
+114:Who wrote poems called '\Abhang\'? +
+:Sant Tuka Ram_
+115:Where did Sant Kabir die? +
+:Magahar_
+116:Name the Takshak Nag who fought with Arjun to avenge his mothers slaughter? +
+:Ashwasen"
+    </string>
+
+    <string name="menu_1">Gods - Godesses</string>
+    <string name="menu_2">From Religions</string>
+    <string name="menu_3">From Ramayan</string>
+    <string name="menu_4">From Mahabharat</string>
+    <string name="menu_5">Religious Places</string>
+    <string name="menu_6">Know Fine Arts</string>
+    <string name="menu_7">Great Teachers - Disciples</string>
+
+    <string name="title_about">Hindustani Android Apps - About Us</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-3832304107491440/3567709613</string>
+</resources>

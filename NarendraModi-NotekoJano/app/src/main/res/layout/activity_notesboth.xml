@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white"
+            android:orientation="vertical"
+            android:paddingBottom="16dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#455A64"
+                android:padding="16dp"
+                android:text="काले धन को सर्जिकल स्ट्राइक देने के लिए नरेंद्र मोदी के 500 और 1000 के पुराने नोटों को बंद करने के एलान के बाद भारतीय रिज़र्व बैंक ने नए नोटों की विशेषताएं एलान की हैं, यह नए नोट 500 और 2000 के होंगे। इनमे दोनों नोटों में 17 अद्वितीय विशेषताएं हैं । नोटो पर क्लिक करें और जाने ये विशेषताएं ।"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
+
+            <ImageView
+                android:id="@+id/front_500"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/front5" />
+
+            <ImageView
+                android:id="@+id/front_2000"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:src="@drawable/front" />
+
+        </LinearLayout>
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id"></com.google.android.gms.ads.AdView>
+    </LinearLayout>
+</ScrollView>

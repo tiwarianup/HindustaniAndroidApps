@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4527A0</color>
+    <color name="colorPrimaryDark">#311B92</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="appBackMain">#FFF</color>
+    <color name="appBackPrimary">#ECEFF1</color>
+    <color name="appBackSecondary">#CFD8DC</color>
+    <color name="textColor">#37474F</color>
+    <color name="category_color">#880E4F</color>
+    <color name="colorPrimaryDark1">#004D40</color>
+    <color name="story_color">#263238</color>
+    <color name="share_color">#78909C</color>
+</resources>

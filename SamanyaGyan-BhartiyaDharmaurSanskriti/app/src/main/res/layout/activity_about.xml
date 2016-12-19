@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="6dp"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8.75"
+        android:padding="10dp"
+        android:background="@color/backColor">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:padding="16dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/headingTextView"
+                    android:padding="16dp"
+                    android:textSize="18dp"
+                    android:background="#325da7"
+                    android:textColor="@android:color/white"
+                    android:gravity="center"
+                    android:text="facebook पेज लाइक करें।"/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:padding="16dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:padding="12dp"
+                    android:textSize="20sp"
+                    android:gravity="center_vertical"
+                    android:textColor="@color/themeColor"
+                    android:text="यह एप्प एक सामान्य ज्ञान प्रश्नोत्तरी है जो भारत के धर्मों तथा संस्कृतियों के बारे में मज़ेदार तरीके से जान ने का मौका देती है। \n \nजानिए भारत के बारे में कौन बनेगा करोड़पति स्टाइल सवालों - जवाबों से । "/>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/white"
+                android:padding="16dp"
+                android:layout_marginBottom="12dp">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/headingTextView2"
+                    android:padding="16dp"
+                    android:textSize="18dp"
+                    android:background="#689f38"
+                    android:textColor="@android:color/white"
+                    android:gravity="center"
+                    android:text="अन्य apps पे शेयर करें।"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <LinearLayout
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.25"
+        android:background="@android:color/white">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:textAlignment="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            ads:adUnitId="@string/banner_ad_unit_id">
+        </com.google.android.gms.ads.AdView>
+
+
+    </LinearLayout>
+
+</LinearLayout>

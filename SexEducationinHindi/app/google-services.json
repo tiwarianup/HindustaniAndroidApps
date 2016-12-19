@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536432242535",
+    "firebase_url": "https://sexeducationinhindi-1d44f.firebaseio.com",
+    "project_id": "sexeducationinhindi-1d44f",
+    "storage_bucket": "sexeducationinhindi-1d44f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536432242535:android:9ec295a80b966fb8",
+        "android_client_info": {
+          "package_name": "com.hindustaniandroidapps.anuptiwari.bharatkojano.sexeducationinhindi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536432242535-huh2gfhjv7ir9bq0qairblin39i8dk7m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hindustaniandroidapps.anuptiwari.bharatkojano.sexeducationinhindi",
+            "certificate_hash": "B4DE85661AE647CFBAF550234186268424E707D8"
+          }
+        },
+        {
+          "client_id": "536432242535-1c1kckrno9r30pe3esqocbqr7dioebou.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKP8txHvCXPT1d1wc4KmED6G9WlH4O99Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536432242535-1c1kckrno9r30pe3esqocbqr7dioebou.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/themeColor</item>
+        <item name="colorPrimaryDark">@color/themeColor</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="devi_devta_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/deviDevtaTheme</item>
+        <item name="colorPrimaryDark">@color/deviDevtaTheme</item>
+    </style>
+
+    <style name="dharm_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dharmTheme</item>
+        <item name="colorPrimaryDark">@color/dharmTheme</item>
+    </style>
+
+    <style name="dharmSthal_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/dharmSthalTheme</item>
+        <item name="colorPrimaryDark">@color/dharmSthalTheme</item>
+    </style>
+
+    <style name="lalitkala_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/lalitKalaTheme</item>
+        <item name="colorPrimaryDark">@color/lalitKalaTheme</item>
+    </style>
+
+    <style name="mahabharat_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/mahabharatTheme</item>
+        <item name="colorPrimaryDark">@color/mahabharatTheme</item>
+    </style>
+
+    <style name="mahanGuru_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/mahanGuruTheme</item>
+        <item name="colorPrimaryDark">@color/mahanGuruTheme</item>
+    </style>
+
+    <style name="ramayan_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/ramayanaTheme</item>
+        <item name="colorPrimaryDark">@color/ramayanaTheme</item>
+    </style>
+
+</resources>
+

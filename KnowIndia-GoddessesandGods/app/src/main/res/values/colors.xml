@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="themeColor">#607D8B</color>
+    <color name="backColor">#FAFAFA</color>
+    <color name="errorColor">#ff1744</color>
+    <color name="successColor">#8BC34A</color>
+    <color name="deviDevtaTheme">#006064</color>
+    <color name="dharmTheme">#3E2723</color>
+    <color name="dharmSthalTheme">#4A148C</color>
+    <color name="ramayanaTheme">#880E4F</color>
+    <color name="mahabharatTheme">#3F51B5</color>
+    <color name="lalitKalaTheme">#1B5E20</color>
+    <color name="mahanGuruTheme">#37474F</color>
+    <color name="randomImgButton">#ff3d00</color>
+    <color name="shareColor">#90A4AE</color>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "382358037035",
+    "firebase_url": "https://narendramodi-notekojano.firebaseio.com",
+    "project_id": "narendramodi-notekojano",
+    "storage_bucket": "narendramodi-notekojano.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382358037035:android:3084de11b976f3b7",
+        "android_client_info": {
+          "package_name": "com.bharatkojano.anuptiwari.narendramodi_notekojano"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382358037035-r26qcbk9pm3sla7pqahnaplr4i4bgclk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bharatkojano.anuptiwari.narendramodi_notekojano",
+            "certificate_hash": "B4DE85661AE647CFBAF550234186268424E707D8"
+          }
+        },
+        {
+          "client_id": "382358037035-jifb69jciivqfbmj35serjsttqnt71ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCds1nwZdvAx1ETEthMr2h7ES9zWLo10Tc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382358037035-jifb69jciivqfbmj35serjsttqnt71ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
